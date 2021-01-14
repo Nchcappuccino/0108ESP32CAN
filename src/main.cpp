@@ -1,3 +1,5 @@
+// https://github.com/nhatuan84/esp32-can-protocol-demo
+//上のプログラムがベース
 #include <Arduino.h>
 #include <ESP32CAN.h>
 #include <CAN_config.h>

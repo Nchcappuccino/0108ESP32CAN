@@ -3,6 +3,9 @@
 		{
 			"name": "0109esp32_can",
 			"path": ".."
+		},
+		{
+			"path": "..\\..\\2020\\1110_esp32CAN_recieve"
 		}
 	],
 	"settings": {}
